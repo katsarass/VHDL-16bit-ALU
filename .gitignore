@@ -1,0 +1,26 @@
+# Quartus generated databases and build output
+**/db/
+**/incremental_db/
+**/output_files/
+
+# Local workspace settings and backups
+*.qws
+*.bak
+*.qsf.bak
+*.qpf.bak
+
+# Generated reports and messages
+*.rpt
+*.smsg
+*.qmsg
+
+# Simulator generated working files
+**/work/
+**/vsim.wlf
+**/transcript
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Keep VHDL sources, Quartus projects, and saved .vwf inputs.
